@@ -1,9 +1,9 @@
 # RelationClassification
 
 ## Instruction
-Paper: Relation Classification via Convolutional Deep Neural Network
-PDF: https://www.aclweb.org/anthology/C14-1220/
-python 3.7
+Paper: Relation Classification via Convolutional Deep Neural Network <br/>
+PDF: https://www.aclweb.org/anthology/C14-1220/ <br/>
+python 3.7 <br/>
 tensorflow 2.0
 
 ## Word Embedding Download
