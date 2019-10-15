@@ -1,5 +1,11 @@
 # RelationClassification
 
+## Instruction
+Paper: Relation Classification via Convolutional Deep Neural Network
+PDF: https://www.aclweb.org/anthology/C14-1220/
+python 3.7
+tensorflow 2.0
+
 ## Word Embedding Download
 from http://nlp.stanford.edu/data/glove.twitter.27B.zip
 
@@ -21,3 +27,6 @@ Entity-Destination       0.91      0.84      0.87       318
          macro avg       0.84      0.81      0.82      2346
       weighted avg       0.85      0.82      0.83      2346
 ```
+
+## Acknowledgments
+Thanks for https://github.com/bsivanantham/Relation-Classification-via-Convolutional-Deep-Neural-Network giving an excellent implementation. I rewrite this implementation in tensorflow 2.0.
